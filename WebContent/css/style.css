@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.margin-top-3{
+	margin-top: 3%;
+}
+.imagen-prod{
+	height: 120px!important;
+	width: auto!important;
+	
+}
+.banner{
+	color: black;
+}
+
+.icon{
+	size: 10px;
+}
+.boton-personalizado {
+	text-decoration:none;
+	font-weight:600;
+	font-size:20px;
+	color:#ffffff;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:40px;
+	padding-right:40px;
+	background-color:#005BBB;
+	}
+.a{
+	margin: 0 auto;
+	padding: 0 20px 20px 20px
+}
+h1{
+	text-align: center;
+}
+.container-padding{
+	padding-top: 100%;
+}

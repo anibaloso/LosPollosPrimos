@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Pollos Primos</title>
+<link rel="stylesheet" href="vendor/bulma-0.9.0/css/bulma.min.css"/>
+</head>
+<body>
+<div class="container has-background-dark is-vcentered" >
+	<h1>Bienvenidos</h1>
+</div>
